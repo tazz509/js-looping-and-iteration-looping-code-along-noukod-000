@@ -1,2 +1,2 @@
 // Code your solutions in this file
-printBadges(['Ada', 'Brendan', 'Ali']);
+printBadges = ['Ada', 'Brendan', 'Ali'];
