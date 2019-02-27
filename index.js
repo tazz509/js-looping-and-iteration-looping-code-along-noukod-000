@@ -6,7 +6,7 @@ function printBadges(employees){
 }
 
 function tailsNeverFails(){
-    // tails = ;
+
     let nTails = 0;
     while(Math.random() >= 0.5){
         nTails++;
